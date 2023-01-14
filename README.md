@@ -43,6 +43,10 @@ python manage.py migrate
 # Run the app
 python manage.py runserver
 ```
+# GUI OUTPUT
+
+![adminpanel](https://user-images.githubusercontent.com/120844290/212477759-867675f6-d7d3-4731-90c5-f3d90b5f64a0.png)
+
 
 # Client Side 
 
