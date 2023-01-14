@@ -7,17 +7,28 @@ This is the server side (Backend) for a car showroom displays the services offer
 # Dependencies
 
 - python3
-- Django~=4.0.2
-- djangorestframework~=3.13.1
-- Pillow~=9.0.1
-- jwt~=1.3.1
-- stripe~=2.66.0
-- PyJWT~=1.7.1
-- qrcode~=7.3.1
-- django-material-admin~=1.8.6
-- djangorestframework-jwt~=1.11.0
-- psycopg2==2.9.3
-- asgiref==3.5.2
+- asgiref==3.6.0
+- certifi==2022.12.7
+- cffi==1.15.1
+- charset-normalizer==3.0.1
+- cryptography==39.0.0
+- Django==4.0.8
+- django-cors-headers==3.13.0
+- django-material-admin==1.8.6
+- djangorestframework==3.13.1
+- djangorestframework-jwt==1.11.0
+- idna==3.4
+- jwt==1.3.1
+- Pillow==9.0.1
+- psycopg2-binary==2.9.5
+- pycparser==2.21
+- PyJWT==1.7.1
+- pytz==2022.7.1
+- qrcode==7.3.1
+- requests==2.28.2
+- sqlparse==0.4.3
+- stripe==2.66.0
+- urllib3==1.26.14
 
 # To Use
 
